@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 ebc2b9003f4b7419ec04b8fb4e16186232ab6676 roppinhoppin <roppinhoppin@gmail.com> 1625218716 +0900	commit (initial): Initial commit
+ebc2b9003f4b7419ec04b8fb4e16186232ab6676 bbb5b4c287a152a72a78c769f7b64a39a3a67059 roppinhoppin <roppinhoppin@gmail.com> 1626503708 +0900	pull --rebase --recurse-submodules: Fast-forward
+bbb5b4c287a152a72a78c769f7b64a39a3a67059 bbb5b4c287a152a72a78c769f7b64a39a3a67059 roppinhoppin <roppinhoppin@gmail.com> 1626527009 +0900	reset: moving to HEAD
